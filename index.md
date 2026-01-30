@@ -19,11 +19,11 @@ title: TidyVoice2026 Challenge
 
 <div style="background-color: #f0fdf4; border-left: 5px solid #22c55e; padding: 20px; margin: 25px 0; border-radius: 5px;">
   <p style="margin: 0; color: #166534; font-size: 16px;">
-    <strong>📢 [UPDATE] [31.1.2026]</strong> The 
-    <strong>Tidyvoice 2026 Challenge Evaluation Plan</strong> is now available 
-    (<a href="https://arxiv.org/abs/2601.21960" style="color: #16a34a; text-decoration: underline;">arXiv</a>). 
-    The reference paper for <strong>TidyvoiceX1</strong> has also been released 
-    (<a href="https://arxiv.org/abs/2601.16358" style="color: #16a34a; text-decoration: underline;">arXiv</a>).
+    <strong>📢 [UPDATE] [31.1.2026]</strong><br>
+    • <strong>Tidyvoice 2026 Challenge Evaluation Plan</strong>: 
+    <a href="https://arxiv.org/abs/2601.21960" style="color: #16a34a; text-decoration: underline;">https://arxiv.org/abs/2601.21960</a><br>
+    • <strong>Reference paper for TidyvoiceX1</strong>: 
+    <a href="https://arxiv.org/abs/2601.16358" style="color: #16a34a; text-decoration: underline;">https://arxiv.org/abs/2601.16358</a>
   </p>
 </div>
 
