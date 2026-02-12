@@ -16,13 +16,7 @@ title: TidyVoice2026 Challenge
   </a>
 </div>
 
-<div style="background-color: #f0fdf4; border-left: 5px solid #22c55e; padding: 20px; margin: 25px 0; border-radius: 5px;">
-  <p style="margin: 0; color: #166534; font-size: 16px;">
-    <strong>📢 [UPDATE] [12.2.2026]</strong><br>
-    • <strong>Challenge Results Released!</strong> The official results and leaderboard are now available on the 
-    <a href="{{ site.baseurl }}/0_challenge_results/" style="color: #16a34a; text-decoration: underline;">Challenge Results</a> page.
-  </p>
-</div>
+
 
 <div style="background-color: #f0fdf4; border-left: 5px solid #22c55e; padding: 20px; margin: 25px 0; border-radius: 5px;">
   <p style="margin: 0; color: #166534; font-size: 16px;">
