@@ -9,10 +9,9 @@ title: TidyVoice2026 Challenge
 
 <br>
 
-<div style="background-color: #1e6f50; border: 3px solid #155e42; border-radius: 12px; padding: 30px; margin: 30px 0; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-  <h2 style="color: white; margin-bottom: 20px; font-size: 28px;">🏆 Challenge Results Are Out!</h2>
-  <p style="color: white; font-size: 18px; margin-bottom: 25px;">The official TidyVoice 2026 Challenge results and leaderboard have been released. Check out how all 42 teams performed!</p>
-  <a href="{{ site.baseurl }}/0_challenge_results/" style="display: inline-block; background-color: white; color: #1e6f50; padding: 15px 40px; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);">
+<div style="background-color: #1e6f50; border: 2px solid #155e42; border-radius: 8px; padding: 16px 20px; margin: 20px 0; text-align: center; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+  <p style="color: white; font-size: 16px; margin: 0 0 12px 0;">🏆 <strong>Challenge Results Are Out!</strong> — The official results and leaderboard have been released.</p>
+  <a href="{{ site.baseurl }}/0_challenge_results/" style="display: inline-block; background-color: white; color: #1e6f50; padding: 8px 24px; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 15px; box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);">
     View Results &amp; Leaderboard
   </a>
 </div>
