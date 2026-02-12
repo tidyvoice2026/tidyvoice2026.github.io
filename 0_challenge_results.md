@@ -90,11 +90,6 @@ title: Challenge Results
   background-color: #d5e5f2;
 }
 
-.rank-cell {
-  font-weight: 700;
-  font-size: 0.9rem;
-}
-
 .team-cell {
   font-weight: 600;
   text-align: left !important;
@@ -173,7 +168,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
 <table class="leaderboard-table">
   <thead>
     <tr>
-      <th rowspan="2">Rank</th>
       <th rowspan="2">Team</th>
       <th colspan="2" class="task-header">Task 1</th>
       <th colspan="2" class="task-header">Task 2</th>
@@ -189,7 +183,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
   </thead>
   <tbody>
     <tr class="rank-1">
-      <td class="rank-cell">&#129351; 1</td>
       <td class="team-cell">T01</td>
       <td>1.39</td>
       <td>0.097</td>
@@ -199,7 +192,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>—</td>
     </tr>
     <tr class="rank-2">
-      <td class="rank-cell">&#129352; 2</td>
       <td class="team-cell">T02</td>
       <td>2.21</td>
       <td>0.180</td>
@@ -209,7 +201,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>—</td>
     </tr>
     <tr class="rank-3">
-      <td class="rank-cell">&#129353; 3</td>
       <td class="team-cell">T03</td>
       <td>2.43</td>
       <td>0.175</td>
@@ -219,7 +210,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>—</td>
     </tr>
     <tr>
-      <td class="rank-cell">4</td>
       <td class="team-cell">T04</td>
       <td>2.46</td>
       <td>0.206</td>
@@ -229,7 +219,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>—</td>
     </tr>
     <tr>
-      <td class="rank-cell">5</td>
       <td class="team-cell">T05</td>
       <td>2.52</td>
       <td>0.189</td>
@@ -239,7 +228,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>—</td>
     </tr>
     <tr>
-      <td class="rank-cell">6</td>
       <td class="team-cell">T06</td>
       <td>2.53</td>
       <td>0.190</td>
@@ -249,7 +237,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>—</td>
     </tr>
     <tr>
-      <td class="rank-cell">7</td>
       <td class="team-cell">T07</td>
       <td>2.61</td>
       <td>0.195</td>
@@ -259,7 +246,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>—</td>
     </tr>
     <tr>
-      <td class="rank-cell">8</td>
       <td class="team-cell">T08</td>
       <td>2.74</td>
       <td>0.253</td>
@@ -269,7 +255,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>—</td>
     </tr>
     <tr>
-      <td class="rank-cell">9</td>
       <td class="team-cell">T09</td>
       <td>3.56</td>
       <td>0.272</td>
@@ -279,7 +264,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>—</td>
     </tr>
     <tr>
-      <td class="rank-cell">10</td>
       <td class="team-cell">T10</td>
       <td>3.64</td>
       <td>0.236</td>
@@ -289,7 +273,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>—</td>
     </tr>
     <tr>
-      <td class="rank-cell">11</td>
       <td class="team-cell">T11</td>
       <td>3.70</td>
       <td>0.278</td>
@@ -299,7 +282,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>—</td>
     </tr>
     <tr>
-      <td class="rank-cell">12</td>
       <td class="team-cell">T12</td>
       <td>3.92</td>
       <td>0.296</td>
@@ -309,7 +291,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>—</td>
     </tr>
     <tr>
-      <td class="rank-cell">13</td>
       <td class="team-cell">T13</td>
       <td>4.29</td>
       <td>0.285</td>
@@ -319,7 +300,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>—</td>
     </tr>
     <tr>
-      <td class="rank-cell">14</td>
       <td class="team-cell">T14</td>
       <td>4.34</td>
       <td>0.290</td>
@@ -329,7 +309,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>—</td>
     </tr>
     <tr>
-      <td class="rank-cell">15</td>
       <td class="team-cell">T15</td>
       <td>4.39</td>
       <td>0.299</td>
@@ -339,7 +318,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>—</td>
     </tr>
     <tr>
-      <td class="rank-cell">16</td>
       <td class="team-cell">T16</td>
       <td>4.75</td>
       <td>0.306</td>
@@ -349,7 +327,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>—</td>
     </tr>
     <tr>
-      <td class="rank-cell">17</td>
       <td class="team-cell">T17</td>
       <td>4.81</td>
       <td>0.350</td>
@@ -359,7 +336,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>—</td>
     </tr>
     <tr>
-      <td class="rank-cell">18</td>
       <td class="team-cell">T18</td>
       <td>5.07</td>
       <td>0.363</td>
@@ -369,7 +345,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>—</td>
     </tr>
     <tr>
-      <td class="rank-cell">19</td>
       <td class="team-cell">T19</td>
       <td>5.10</td>
       <td>0.335</td>
@@ -379,7 +354,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>—</td>
     </tr>
     <tr>
-      <td class="rank-cell">20</td>
       <td class="team-cell">T20</td>
       <td>5.49</td>
       <td>0.434</td>
@@ -389,7 +363,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>—</td>
     </tr>
     <tr>
-      <td class="rank-cell">21</td>
       <td class="team-cell">T21</td>
       <td>5.50</td>
       <td>0.349</td>
@@ -399,7 +372,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>—</td>
     </tr>
     <tr>
-      <td class="rank-cell">22</td>
       <td class="team-cell">T22</td>
       <td>5.94</td>
       <td>0.384</td>
@@ -409,7 +381,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>—</td>
     </tr>
     <tr>
-      <td class="rank-cell">23</td>
       <td class="team-cell">T23</td>
       <td>6.12</td>
       <td>0.410</td>
@@ -419,7 +390,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>—</td>
     </tr>
     <tr>
-      <td class="rank-cell">24</td>
       <td class="team-cell">T24</td>
       <td>6.64</td>
       <td>0.502</td>
@@ -429,7 +399,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>—</td>
     </tr>
     <tr>
-      <td class="rank-cell">25</td>
       <td class="team-cell">T25</td>
       <td>6.68</td>
       <td>0.498</td>
@@ -439,7 +408,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>—</td>
     </tr>
     <tr>
-      <td class="rank-cell">26</td>
       <td class="team-cell">T26</td>
       <td>7.02</td>
       <td>0.524</td>
@@ -449,7 +417,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>—</td>
     </tr>
     <tr>
-      <td class="rank-cell">27</td>
       <td class="team-cell">T27</td>
       <td>8.35</td>
       <td>0.402</td>
@@ -459,7 +426,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>—</td>
     </tr>
     <tr>
-      <td class="rank-cell">28</td>
       <td class="team-cell">T28</td>
       <td>8.40</td>
       <td>0.649</td>
@@ -469,7 +435,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>—</td>
     </tr>
     <tr>
-      <td class="rank-cell">29</td>
       <td class="team-cell">T29</td>
       <td>8.96</td>
       <td>0.544</td>
@@ -479,7 +444,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>—</td>
     </tr>
     <tr>
-      <td class="rank-cell">30</td>
       <td class="team-cell">T30</td>
       <td>9.06</td>
       <td>0.658</td>
@@ -489,7 +453,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>—</td>
     </tr>
     <tr class="baseline-row">
-      <td class="rank-cell">—</td>
       <td class="team-cell">Baseline</td>
       <td>9.06</td>
       <td>0.658</td>
@@ -499,7 +462,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td><a href="https://arxiv.org/pdf/2601.21960" target="_blank">Evaluation Plan</a></td>
     </tr>
     <tr>
-      <td class="rank-cell">31</td>
       <td class="team-cell">T31</td>
       <td>9.18</td>
       <td>0.573</td>
@@ -509,7 +471,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>—</td>
     </tr>
     <tr>
-      <td class="rank-cell">32</td>
       <td class="team-cell">T32</td>
       <td>9.27</td>
       <td>0.512</td>
@@ -519,7 +480,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>—</td>
     </tr>
     <tr>
-      <td class="rank-cell">33</td>
       <td class="team-cell">T33</td>
       <td>10.47</td>
       <td>0.508</td>
@@ -529,7 +489,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>—</td>
     </tr>
     <tr>
-      <td class="rank-cell">34</td>
       <td class="team-cell">T34</td>
       <td>10.54</td>
       <td>0.728</td>
@@ -539,7 +498,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>—</td>
     </tr>
     <tr>
-      <td class="rank-cell">35</td>
       <td class="team-cell">T35</td>
       <td>12.43</td>
       <td>0.702</td>
@@ -549,7 +507,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>—</td>
     </tr>
     <tr>
-      <td class="rank-cell">36</td>
       <td class="team-cell">T36</td>
       <td>13.99</td>
       <td>0.860</td>
@@ -559,7 +516,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>—</td>
     </tr>
     <tr>
-      <td class="rank-cell">37</td>
       <td class="team-cell">T37</td>
       <td>15.03</td>
       <td>0.731</td>
@@ -569,7 +525,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>—</td>
     </tr>
     <tr>
-      <td class="rank-cell">38</td>
       <td class="team-cell">T38</td>
       <td>15.05</td>
       <td>0.700</td>
@@ -579,7 +534,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>—</td>
     </tr>
     <tr>
-      <td class="rank-cell">39</td>
       <td class="team-cell">T39</td>
       <td>15.51</td>
       <td>0.674</td>
@@ -589,7 +543,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>—</td>
     </tr>
     <tr>
-      <td class="rank-cell">40</td>
       <td class="team-cell">T40</td>
       <td>20.15</td>
       <td>0.993</td>
@@ -599,7 +552,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>—</td>
     </tr>
     <tr>
-      <td class="rank-cell">41</td>
       <td class="team-cell">T41</td>
       <td>21.25</td>
       <td>0.999</td>
@@ -609,7 +561,6 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>—</td>
     </tr>
     <tr>
-      <td class="rank-cell">42</td>
       <td class="team-cell">T42</td>
       <td>21.44</td>
       <td>0.987</td>
