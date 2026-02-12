@@ -54,31 +54,6 @@ title: Challenge Results
   background-color: #ebf5fb;
 }
 
-/* Medal rows */
-.leaderboard-table tbody tr.rank-1 td {
-  background-color: #fff9e6;
-  font-weight: 600;
-}
-.leaderboard-table tbody tr.rank-1:hover td {
-  background-color: #fff3cc;
-}
-
-.leaderboard-table tbody tr.rank-2 td {
-  background-color: #f5f5f5;
-  font-weight: 600;
-}
-.leaderboard-table tbody tr.rank-2:hover td {
-  background-color: #ececec;
-}
-
-.leaderboard-table tbody tr.rank-3 td {
-  background-color: #fef5ed;
-  font-weight: 600;
-}
-.leaderboard-table tbody tr.rank-3:hover td {
-  background-color: #fde8d4;
-}
-
 /* Baseline row */
 .leaderboard-table tbody tr.baseline-row td {
   background-color: #eaf2f8;
@@ -184,7 +159,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
     </tr>
   </thead>
   <tbody>
-    <tr class="rank-1">
+    <tr>
       <td class="team-cell">T01</td>
       <td>1.39</td>
       <td>0.097</td>
@@ -193,7 +168,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submission_20260211_163517.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
-    <tr class="rank-2">
+    <tr>
       <td class="team-cell">T02</td>
       <td>2.21</td>
       <td>0.180</td>
@@ -202,7 +177,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submission_20260209_214436.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
-    <tr class="rank-3">
+    <tr>
       <td class="team-cell">T03</td>
       <td>2.43</td>
       <td>0.175</td>
