@@ -9,12 +9,20 @@ title: TidyVoice2026 Challenge
 
 <br>
 
-<div style="background-color: #7c3aed; border: 3px solid #5b21b6; border-radius: 12px; padding: 30px; margin: 30px 0; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-  <h2 style="color: white; margin-bottom: 20px; font-size: 28px;">🚀 Submit Your Results on CodaBench!</h2>
-  <p style="color: white; font-size: 18px; margin-bottom: 25px;">The evaluation phase is now open. Submit your system's results and compete on the leaderboard!</p>
-  <a href="https://www.codabench.org/competitions/13187/" target="_blank" style="display: inline-block; background-color: white; color: #7c3aed; padding: 15px 40px; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);">
-    Go to CodaBench Evaluation Platform
+<div style="background-color: #1e6f50; border: 3px solid #155e42; border-radius: 12px; padding: 30px; margin: 30px 0; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  <h2 style="color: white; margin-bottom: 20px; font-size: 28px;">🏆 Challenge Results Are Out!</h2>
+  <p style="color: white; font-size: 18px; margin-bottom: 25px;">The official TidyVoice 2026 Challenge results and leaderboard have been released. Check out how all 42 teams performed!</p>
+  <a href="{{ site.baseurl }}/0_challenge_results/" style="display: inline-block; background-color: white; color: #1e6f50; padding: 15px 40px; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);">
+    View Results &amp; Leaderboard
   </a>
+</div>
+
+<div style="background-color: #f0fdf4; border-left: 5px solid #22c55e; padding: 20px; margin: 25px 0; border-radius: 5px;">
+  <p style="margin: 0; color: #166534; font-size: 16px;">
+    <strong>📢 [UPDATE] [12.2.2026]</strong><br>
+    • <strong>Challenge Results Released!</strong> The official results and leaderboard are now available on the 
+    <a href="{{ site.baseurl }}/0_challenge_results/" style="color: #16a34a; text-decoration: underline;">Challenge Results</a> page.
+  </p>
 </div>
 
 <div style="background-color: #f0fdf4; border-left: 5px solid #22c55e; padding: 20px; margin: 25px 0; border-radius: 5px;">
@@ -125,6 +133,17 @@ These trial structures are designed to evaluate systems' ability to eliminate la
 In each speech signal from a single person, we have multiple types of information: the identity of the speaker, the content of the speech, emotional information, language information, etc. In this challenge, we aim to develop systems that, when receiving a speech signal from a human, can **eliminate the language effect** in the speech utterance and perform speaker verification in a language-independent manner.
 
 *This image was generated and edited using Runway and Qwen-VL models.*
+
+<br>
+
+## Submission Platform
+
+<div style="background-color: #f5f3ff; border: 1px solid #c4b5fd; border-radius: 8px; padding: 16px 20px; margin: 15px 0; text-align: center;">
+  <p style="margin: 0 0 10px 0; color: #4c1d95; font-size: 15px;">The evaluation was hosted on <strong>CodaBench</strong>.</p>
+  <a href="https://www.codabench.org/competitions/13187/" target="_blank" style="display: inline-block; background-color: #7c3aed; color: white; padding: 8px 24px; text-decoration: none; border-radius: 6px; font-weight: 600; font-size: 14px;">
+    CodaBench Evaluation Platform
+  </a>
+</div>
 
 <br>
 
