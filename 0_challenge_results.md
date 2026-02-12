@@ -156,7 +156,9 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
 </div>
 
 <div class="call-box">
-  <p><strong>Call for System Descriptions:</strong> All participating teams are welcome and encouraged to submit a paper describing their systems and approaches to the <strong>Interspeech 2026</strong> platform. The final acceptance decision for each paper will be made by the reviewers through the official review process.</p>
+  <p><strong>Call for System Descriptions:</strong> All participating teams are welcome and encouraged to submit a paper describing their systems and approaches to the <a href="https://interspeech2026.org/en-AU/pages/calls/submit-a-paper" target="_blank"><strong>Interspeech 2026</strong></a> platform. The final acceptance decision for each paper will be made by the reviewers through the official review process.</p>
+  <p>During the submission process, in the <em>"Subject Areas"</em> section, please select: <strong>"14.15 TidyVoice Challenge: Cross-Lingual Speaker Verification"</strong>.</p>
+  <p><strong>Submission deadline: 25 February 2026.</strong></p>
   <p>If your paper is publicly available (e.g., on arXiv), we would be happy to link it here for the community. Please share the link with us at: <a href="mailto:aref.farhadipour@uzh.ch"><strong>aref.farhadipour@uzh.ch</strong></a></p>
 </div>
 
