@@ -146,8 +146,8 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
   <thead>
     <tr>
       <th rowspan="2">Team</th>
-      <th colspan="2" class="task-header">Task 1</th>
-      <th colspan="2" class="task-header">Task 2</th>
+      <th colspan="2" class="task-header">tv26_eval-A</th>
+      <th colspan="2" class="task-header">tv26_eval-U</th>
       <th rowspan="2">Deeper Analysis</th>
       <th rowspan="2">Paper</th>
     </tr>
@@ -560,7 +560,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
 
 If you use the TidyVoice dataset in your work, please cite the following:
 
-<div style="background-color: #f6f8fa; border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; margin: 15px 0; font-family: Menlo, Monaco, 'Courier New', monospace; font-size: 0.75rem; line-height: 1.5; overflow-x: auto; white-space: pre;">@misc{farhadipour2026tidyvoicecuratedmultilingualdataset,
+<div style="background-color: #f6f8fa; border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; margin: 15px 0; font-family: Menlo, Monaco, 'Courier New', monospace; font-size: 0.75rem; line-height: 1.5; overflow-x: auto; white-space: pre;">@misc{farhadi2026tidyvoice,
       title={TidyVoice: A Curated Multilingual Dataset for Speaker Verification Derived from Common Voice},
       author={Aref Farhadipour and Jan Marquenie and Srikanth Madikeri and Eleanor Chodroff},
       year={2026},
