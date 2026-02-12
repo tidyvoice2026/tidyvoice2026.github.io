@@ -190,7 +190,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>0.097</td>
       <td>1.95</td>
       <td>0.058</td>
-      <td>—</td>
+      <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submission_20260211_163517.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
     <tr class="rank-2">
@@ -199,7 +199,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>0.180</td>
       <td>2.99</td>
       <td>0.205</td>
-      <td>—</td>
+      <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submission_20260209_214436.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
     <tr class="rank-3">
@@ -208,7 +208,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>0.175</td>
       <td>2.84</td>
       <td>0.189</td>
-      <td>—</td>
+      <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submission_20260209_211520.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
     <tr>
@@ -217,7 +217,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>0.206</td>
       <td>4.45</td>
       <td>0.288</td>
-      <td>—</td>
+      <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submission_20260209_092311.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
     <tr>
@@ -226,7 +226,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>0.189</td>
       <td>3.43</td>
       <td>0.224</td>
-      <td>—</td>
+      <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submission_20260209_102449.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
     <tr>
@@ -235,7 +235,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>0.190</td>
       <td>3.40</td>
       <td>0.196</td>
-      <td>—</td>
+      <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submission_20260211_105104.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
     <tr>
@@ -244,7 +244,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>0.195</td>
       <td>3.39</td>
       <td>0.220</td>
-      <td>—</td>
+      <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submission_20260209_195117.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
     <tr>
@@ -253,7 +253,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>0.253</td>
       <td>2.86</td>
       <td>0.281</td>
-      <td>—</td>
+      <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submission_20260209_183017.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
     <tr>
@@ -262,7 +262,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>0.272</td>
       <td>5.57</td>
       <td>0.367</td>
-      <td>—</td>
+      <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submission_20260209_005501.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
     <tr>
@@ -271,7 +271,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>0.236</td>
       <td>9.16</td>
       <td>0.359</td>
-      <td>—</td>
+      <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submission_seewo.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
     <tr>
@@ -280,7 +280,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>0.278</td>
       <td>6.41</td>
       <td>0.329</td>
-      <td>—</td>
+      <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submission_20260210_021449.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
     <tr>
@@ -289,7 +289,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>0.296</td>
       <td>5.59</td>
       <td>0.391</td>
-      <td>—</td>
+      <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submissionzi.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
     <tr>
@@ -298,7 +298,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>0.285</td>
       <td>5.82</td>
       <td>0.332</td>
-      <td>—</td>
+      <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submission_20260211_033010_finalFus.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
     <tr>
@@ -307,7 +307,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>0.290</td>
       <td>6.13</td>
       <td>0.347</td>
-      <td>—</td>
+      <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submissionaban.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
     <tr>
@@ -316,7 +316,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>0.299</td>
       <td>5.13</td>
       <td>0.360</td>
-      <td>—</td>
+      <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submission_20260211_021653_fuse3_no.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
     <tr>
@@ -325,7 +325,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>0.306</td>
       <td>6.30</td>
       <td>0.390</td>
-      <td>—</td>
+      <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submission_20260205_063955.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
     <tr>
@@ -334,7 +334,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>0.350</td>
       <td>7.01</td>
       <td>0.422</td>
-      <td>—</td>
+      <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submission_20260210_145139.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
     <tr>
@@ -343,7 +343,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>0.363</td>
       <td>9.89</td>
       <td>0.440</td>
-      <td>—</td>
+      <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/cohort.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
     <tr>
@@ -352,7 +352,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>0.335</td>
       <td>7.74</td>
       <td>0.567</td>
-      <td>—</td>
+      <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submission_20260210_143033.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
     <tr>
@@ -361,7 +361,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>0.434</td>
       <td>7.24</td>
       <td>0.421</td>
-      <td>—</td>
+      <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submission_20260211_102942.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
     <tr>
@@ -370,7 +370,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>0.349</td>
       <td>7.24</td>
       <td>0.448</td>
-      <td>—</td>
+      <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submission_20260210_135343.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
     <tr>
@@ -379,7 +379,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>0.384</td>
       <td>8.84</td>
       <td>0.545</td>
-      <td>—</td>
+      <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submission_20260202_210941.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
     <tr>
@@ -388,7 +388,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>0.410</td>
       <td>9.47</td>
       <td>0.624</td>
-      <td>—</td>
+      <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submission_20260210_225240.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
     <tr>
@@ -397,7 +397,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>0.502</td>
       <td>6.30</td>
       <td>0.445</td>
-      <td>—</td>
+      <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submission_FT.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
     <tr>
@@ -406,7 +406,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>0.498</td>
       <td>6.03</td>
       <td>0.423</td>
-      <td>—</td>
+      <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submission_20260203_153037.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
     <tr>
@@ -415,7 +415,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>0.524</td>
       <td>9.84</td>
       <td>0.525</td>
-      <td>—</td>
+      <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submission_20260209_135415.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
     <tr>
@@ -424,7 +424,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>0.402</td>
       <td>9.79</td>
       <td>0.566</td>
-      <td>—</td>
+      <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submissionhhggee.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
     <tr>
@@ -433,7 +433,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>0.649</td>
       <td>12.15</td>
       <td>0.630</td>
-      <td>—</td>
+      <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submission_20260210_021938.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
     <tr>
@@ -442,7 +442,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>0.544</td>
       <td>10.62</td>
       <td>0.525</td>
-      <td>—</td>
+      <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submission_20260211_114304.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
     <tr>
@@ -451,7 +451,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>0.658</td>
       <td>11.60</td>
       <td>0.607</td>
-      <td>—</td>
+      <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submission_20260207_150740.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
     <tr class="baseline-row">
@@ -460,7 +460,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>0.658</td>
       <td>11.60</td>
       <td>0.607</td>
-      <td>—</td>
+      <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submission_20260126_180524.zip" target="_blank">Download</a></td>
       <td><a href="https://arxiv.org/pdf/2601.21960" target="_blank">Evaluation Plan</a></td>
     </tr>
     <tr>
@@ -469,7 +469,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>0.573</td>
       <td>10.71</td>
       <td>0.539</td>
-      <td>—</td>
+      <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submission_20260211_064143.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
     <tr>
@@ -478,7 +478,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>0.512</td>
       <td>11.28</td>
       <td>0.508</td>
-      <td>—</td>
+      <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submission_20260211_115835.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
     <tr>
@@ -487,7 +487,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>0.508</td>
       <td>11.06</td>
       <td>0.729</td>
-      <td>—</td>
+      <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submission_20260211_074337_vfinal_w.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
     <tr>
@@ -496,7 +496,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>0.728</td>
       <td>11.18</td>
       <td>0.710</td>
-      <td>—</td>
+      <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submissionsqz.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
     <tr>
@@ -505,7 +505,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>0.702</td>
       <td>13.68</td>
       <td>0.765</td>
-      <td>—</td>
+      <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submissionara.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
     <tr>
@@ -514,7 +514,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>0.860</td>
       <td>15.22</td>
       <td>0.865</td>
-      <td>—</td>
+      <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submission_20260211_150510.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
     <tr>
@@ -523,7 +523,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>0.731</td>
       <td>18.41</td>
       <td>0.717</td>
-      <td>—</td>
+      <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/result.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
     <tr>
@@ -532,7 +532,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>0.700</td>
       <td>19.24</td>
       <td>0.804</td>
-      <td>—</td>
+      <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submission_20260210_235110.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
     <tr>
@@ -541,7 +541,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>0.674</td>
       <td>17.93</td>
       <td>0.739</td>
-      <td>—</td>
+      <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submission_20260206_095830.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
     <tr>
@@ -550,7 +550,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>0.993</td>
       <td>20.91</td>
       <td>0.970</td>
-      <td>—</td>
+      <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submissioniro.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
     <tr>
@@ -559,7 +559,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>0.999</td>
       <td>22.36</td>
       <td>0.996</td>
-      <td>—</td>
+      <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submission_20260203_222238.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
     <tr>
@@ -568,7 +568,7 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
       <td>0.987</td>
       <td>23.03</td>
       <td>0.974</td>
-      <td>—</td>
+      <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submission_20260209_225900.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
   </tbody>
