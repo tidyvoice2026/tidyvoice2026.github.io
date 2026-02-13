@@ -278,19 +278,19 @@ We are pleased to announce the official results of the **TidyVoice 2026 Challeng
     </tr>
     <tr>
       <td class="team-cell">T14</td>
-      <td>4.34</td>
-      <td>0.290</td>
-      <td>6.13</td>
-      <td>0.347</td>
+      <td>4.31</td>
+      <td>0.33</td>
+      <td>5.22</td>
+      <td>0.37</td>
       <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submissionaban.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
     <tr>
       <td class="team-cell">T15</td>
-      <td>4.39</td>
-      <td>0.299</td>
-      <td>5.13</td>
-      <td>0.360</td>
+      <td>4.34</td>
+      <td>0.290</td>
+      <td>6.13</td>
+      <td>0.347</td>
       <td><a href="https://github.com/tidyvoice2026/Tidyvoice2026-challenge-result/raw/main/Results-Tidyvoice2026/submission_20260211_021653_fuse3_no.zip" target="_blank">Download</a></td>
       <td>—</td>
     </tr>
